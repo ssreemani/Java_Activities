@@ -18,7 +18,7 @@ public class Activity4_3 {
         XSSFWorkbook workbook = new XSSFWorkbook();
         XSSFSheet sheet = workbook.createSheet("Datatypes in Java");
         Object[][] datatypes = {
-                {"Datatype", "Type", "Size(in bytes)"},
+                {"Datatype", "Type", "Size(in bytess)"},
                 {"int", "Primitive", 2},
                 {"float", "Primitive", 4},
                 {"double", "Primitive", 8},
